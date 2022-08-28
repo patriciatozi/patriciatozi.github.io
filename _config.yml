@@ -1,0 +1,18 @@
+# global settings
+title: "Portfolio - Patrícia Tozi"
+
+# build settings
+markdown: kramdown
+plugins:
+  - jekyll-avatar
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-coffeescript
+  - jekyll-sitemap
+  - jekyll-octicons
+
+sass:
+  style: compressed
+  # Where you keep your scss files
+  sass_dir: static/css/
+  # Where sass should look for other scss
