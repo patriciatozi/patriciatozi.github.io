@@ -17,5 +17,5 @@ url: https://patriciatozi.github.io
 sass:
   style: compressed
   # Where you keep your scss files
-  sass_dir: static/css/
+  sass_dir: docs/static/css/
   # Where sass should look for other scss
