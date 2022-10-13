@@ -11,6 +11,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-octicons
 
+domain: patriciatozi.github.io       
+url: https://patriciatozi.github.io  
+
 sass:
   style: compressed
   # Where you keep your scss files
